@@ -17,8 +17,11 @@ curl http://192.168.0.1/cgi/conf.bin -H 'referer: http://192.168.0.1' > conf.bin
 ```
 
 ## 3. Using Browser:
-```http://192.168.0.1/cgi/conf.bin?referer=http://192.168.0.1```
+```
+http://192.168.0.1/cgi/conf.bin?referer=http://192.168.0.1
+```
 
+## Convert bin to xml.
 
 ## NOTE: Not all router has same config path
 
